@@ -1,0 +1,11 @@
+node_modules
+.next
+.venv
+.env*.local
+.env
+next-env.d.ts
+__pycache__
+
+# 크롤링한 정부 사이트 콘텐츠와 그 임베딩은 저장소에 올리지 않는다(README의 재생성 방법 참고)
+data/
+*.tsbuildinfo
